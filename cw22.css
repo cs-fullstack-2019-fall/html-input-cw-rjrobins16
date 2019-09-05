@@ -1,0 +1,32 @@
+body{
+    background: gray;
+}
+#newform{
+    background: white;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 20%;
+}
+#loginbutton{
+    display: inline-block;
+    background-color: darkslategray;
+    border: none;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+
+}
+#signup{
+    display: inline-block;
+}
+#toprow{
+    width: 100%;
+}
+#loginbutton{
+    width: 45%;
+}
+#signup{
+    width: 45%;
+}
